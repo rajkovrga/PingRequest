@@ -1,0 +1,7 @@
+C:\Users\Rajko\source\repos\PingRequest\PingRequest\bin\Release\PingRequest.exe.config
+C:\Users\Rajko\source\repos\PingRequest\PingRequest\bin\Release\PingRequest.exe
+C:\Users\Rajko\source\repos\PingRequest\PingRequest\bin\Release\PingRequest.pdb
+C:\Users\Rajko\source\repos\PingRequest\PingRequest\obj\Release\PingRequest.csprojResolveAssemblyReference.cache
+C:\Users\Rajko\source\repos\PingRequest\PingRequest\obj\Release\PingRequest.csproj.CoreCompileInputs.cache
+C:\Users\Rajko\source\repos\PingRequest\PingRequest\obj\Release\PingRequest.exe
+C:\Users\Rajko\source\repos\PingRequest\PingRequest\obj\Release\PingRequest.pdb
